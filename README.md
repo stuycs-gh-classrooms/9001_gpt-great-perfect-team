@@ -44,7 +44,7 @@ Answer the Following Questions after seeing the initial program.
 #### Question 0
 Overall, how well did ChatGPT do?
 
-YOUR ANSWER HERE
+It completed the task, so yes
 
 #### Question 1
 What did ChatGPT get right?
