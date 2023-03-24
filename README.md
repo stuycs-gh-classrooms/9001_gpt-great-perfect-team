@@ -33,7 +33,7 @@ You can find ChatGPT here: <https://chat.openai.com/chat>
 ### Your Prompt
 Provide below the first description you gave ChatGPT:
 
-YOUR ANSWER HERE
+Create a graphics engine that can draw a line from point (x1,y1) to point (x2,y2). The program should then display the image. You must create your own drawline function using the Bresenhams Line Algorithm
 
 ### The Code
 Crate a folder in this repository called __0-program__ containing all the relevant code initially created by ChatGPT.
