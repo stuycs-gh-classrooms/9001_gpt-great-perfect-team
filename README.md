@@ -1,9 +1,9 @@
 # ChatGPT on Graphics
 
-### Name0: YOUR NAME HERE
-### Name1: TABLE_BUDDY NAME HERE
-### Name2: TABLE_BUDY+ NAME HERE 
-### Name3: TABLE_BUDY+ NAME HERE (if applicable, delete this line if not)
+### Name0: Great Perfect Team
+### Name1: Anthony Sun
+### Name2: Joseph Wu
+### Name3: Afia Bidica
 
 ---
 
